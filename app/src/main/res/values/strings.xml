@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">VideoStram</string>
+    <string name="forget_password">Forget your password?</string>
+    <string name="password">Password</string>
+    <string name="user_name">User Name</string>
+    <string name="videostram">VideoStram.</string>
+    <string name="sign_in">Sign In</string>
+    <string name="don_t_have_an_account">Don\'t have an account? "<b>"Create"</b>"</string>
+    <string name="phone">Phone</string>
+    <string name="email_id">Email ID</string>
+    <string name="proceed">Proceed</string>
+    <string name="user_description">user description</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
